@@ -1,3 +1,3 @@
 # Formulario Projeto Integrador
 
-Designado para o formulário realizado no Projeto Integrador.
+Repositório designado para o Formulário para o Feedback das aulas.
