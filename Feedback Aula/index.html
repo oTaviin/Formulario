@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <head>
+
+            <title>Feedback | Unilavras</title>
+            <meta charset="utf-8">
+            <link rel="stylesheet" type="text/css" href="./css/style.css">
+            <script src="./scripts/jquery-3.6.0.js"></script>
+            <script src="./scripts/script.js"></script>
+        </head>
+
+        <body>
+
+            <a href="https://unilavras.edu.br" target="_blank"  >
+                <img src="./Imagens/logo_unilavras.png" height="150" width="200"> <br><br><br>
+            </a>
+
+            <h1>Sistema de Avaliação - ADS Unilavras</h1>
+
+            <center>
+                <div class="col-md-6">
+                    <p>
+                        Faça um feedback da aula de hoje, fique a vontade para deixar seu comentário. 
+                        Não se preocupe, pois a sua resposta é totalmente anônima. 
+                        Porém, você pode utilizar a aba anônima do seu navegador para garantir que sua participação será oculta.
+                    </p>
+                </div>
+            </center>
+
+                
+        <div class="box">
+
+            <fieldset>
+
+                <legend>Feedback da Aula</legend>
+
+                <form name="formulario" autocomplete="off" method="post">
+
+                    <div class="inputBox">
+
+                        <label class="inputLabel" for="idAluno">ID Aluno</label>
+                        <input class="inputUser" type="number" id="idAluno" min="1" max="999" required>
+
+                    </div><br>
+
+                    <div class="inputBox">
+
+                        <label class="inputLabel" for="nomeAluno">Nome</label>
+                        <input class="inputUser" type="text" id="nomeAluno" required>
+
+                    </div><br>
+
+                    <div class="inputBox">
+
+                        <label class="inputLabel" for="dataAula">Data</label>
+                        <input class="inputUser" type="text" id="dataAula" required>
+
+                    </div><br>
+
+                    <div class="inputBox">
+
+                        <label class="inputLabel" for="nomeDisciplina">Disciplina</label>
+                        <input class="inputUser" type="text" id="nomeDisciplina" required>
+
+                    </div><br>
+
+                    <div class="inputBox">
+
+                        <label class="inputLabel" for="avaliacaoAula">Avaliação Aula</label>
+                        <input class="inputUser" type="number" id="avaliacaoAula" min="1" max="5" required>
+
+                    </div><br>
+
+                    <div class="inputBox">
+
+                        <label class="inputLabel" for="comentarioAula">Comentário</label>
+                        <textarea class="inputTextarea" id="comentarioAula" cols="50" rows="10"></textarea>
+
+                    </div><br><br>
+
+                    <button type="button" id="button" onclick="cadastrar()">Enviar</button>
+
+                </form>
+
+            </fieldset>
+
+        </body>
+
+    </head>
+
+</html>

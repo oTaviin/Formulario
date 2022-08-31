@@ -1,0 +1,60 @@
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\appsettings.json
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.staticwebassets.runtime.json
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.exe
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.deps.json
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.runtimeconfig.json
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.pdb
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.csproj.AssemblyReference.cache
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.AssemblyInfoInputs.cache
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.AssemblyInfo.cs
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.csproj.CoreCompileInputs.cache
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\scopedcss\bundle\FormularioMySQL.styles.css
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.csproj.CopyComplete
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\refint\FormularioMySQL.dll
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.pdb
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.genruntimeconfig.cache
+C:\Users\yenvi\OneDrive\Documentos\API's\FormularioMySQL\obj\Debug\net6.0\ref\FormularioMySQL.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\appsettings.json
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.staticwebassets.runtime.json
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.exe
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.deps.json
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.runtimeconfig.json
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\FormularioMySQL.pdb
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.csproj.AssemblyReference.cache
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.AssemblyInfoInputs.cache
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.AssemblyInfo.cs
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.csproj.CoreCompileInputs.cache
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\scopedcss\bundle\FormularioMySQL.styles.css
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.csproj.CopyComplete
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\refint\FormularioMySQL.dll
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.pdb
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\FormularioMySQL.genruntimeconfig.cache
+C:\Users\yenvi\OneDrive\Documentos\Entrega 04\FormularioMySQL\obj\Debug\net6.0\ref\FormularioMySQL.dll

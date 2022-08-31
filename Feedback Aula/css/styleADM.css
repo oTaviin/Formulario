@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    background-image: linear-gradient(to right, #4169E1, #1E90FF);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(0, 23, 49);
+    
+}
+
+.box {
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.inputBox {
+    text-align: center;
+    border-bottom: 3px solid rgb(0, 23, 49);
+    padding: 15px;
+    width: 40%;
+}
+
+button{
+    background-image: linear-gradient(to right, rgb(0, 158, 227), rgb(0, 75, 108));
+    width: 100%;
+    border: none;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+
+  #submit:hover {
+    background-image: linear-gradient(to right, rgb(0, 122, 203), rgb(0, 56, 88));
+  }
